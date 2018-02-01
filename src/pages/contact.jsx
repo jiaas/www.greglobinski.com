@@ -10,31 +10,31 @@ export default props => {
       <Helmet title="Contact me" />
 
       <HeadlineWithFocus>
-        You can get in touch <span>anytime through</span>
+      <span> Hey I just met you, and </span> this is crazy.<span> But here's my number </span>  so call me maybe
       </HeadlineWithFocus>
       <ul className="c-contact-list">
         <li className="c-contact-list__item">
           <FaEnvelopeO />
-          <Obfuscate email="greglobinski@gmail.com" />
+          <Obfuscate email="javier@ignacioquinteros.cl" />
         </li>
         <li className="c-contact-list__item">
           <FaTwitter />
           <a
-            href="https://twitter.com/greglobinski"
+            href="https://twitter.com/ignacioquin"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @greglobinski
+            @ignacioquin
           </a>
         </li>
         <li className="c-contact-list__item">
           <FaGithub />
           <a
-            href="https://github.com/greglobinski"
+            href="https://github.com/jiaas"
             target="_blank"
             rel="noopener noreferrer"
           >
-            greglobinski
+            Javier Ignacio as a Service
           </a>
         </li>
       </ul>
@@ -45,7 +45,7 @@ export default props => {
         c-content-box__subheadline--with-button
       `}
       >
-        Do not forget
+        And please, Don't forget
       </h2>
     </div>
   );

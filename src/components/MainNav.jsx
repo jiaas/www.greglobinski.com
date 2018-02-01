@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
-import { FaMapMarker, FaEnvelopeO, FaPaperPlaneO, FaWrench, FaChevronDown, FaChevronUp } from 'react-icons/lib/fa';
+import { FaHome, FaEnvelopeO, FaPaperPlaneO,FaEnvelope ,FaHeart ,FaGithub,FaChevronDown, FaChevronUp,FaMedium } from 'react-icons/lib/fa';
 import { TiCodeOutline } from 'react-icons/lib/ti';
 
 const ListLink = (props) => (
@@ -24,10 +24,11 @@ class MainNav extends React.Component {
     this.closeMenu = this.closeMenu.bind(this);
     this.state = {
       links: [
-        { to: '/', text: 'Home', icon: FaMapMarker },
-        { to: '/toolbox/', text: 'Toolbox', icon: FaWrench },
-        { to: '/playground/', text: 'Playground', icon: FaPaperPlaneO },
-        { to: '/contact/', text: 'Contact', icon: FaEnvelopeO }
+        { to: '/', text: 'Home', icon: FaHome },
+        { to: '/toolbox/', text: 'Toolbox', icon: FaHeart },
+        { to: '/playground/', text: 'Blog', icon: FaMedium },
+        { to: '/contact/', text: 'Contact', icon: FaEnvelope },
+        
       ],
       mainNavModifierClassName: '',
       mobileDetailsNav: null

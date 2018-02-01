@@ -24,7 +24,7 @@ const MainFooter = () => (
         Netlify
       </a>. The code is open source and available at{" "}
       <a
-        href="https://github.com/greglobinski/playground"
+        href="https://github.com/jiaas/www.ignacioquinteros.cl"
         target="_blank"
         rel="noopener noreferrer"
       >

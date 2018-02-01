@@ -6,6 +6,7 @@ export default () => (
     <HeadlineWithFocus>
       You have found The 404 End
     </HeadlineWithFocus>
+    <br/>
     <p>This is the end, beautiful friend</p>
     <p>This is the end, my only friend,</p>
     <p>the end.</p>
