@@ -1,19 +1,25 @@
-.c-content-box {    
-  padding: 1.5rem 0 2rem;
+.c-content-box {
+    padding: 1.5rem 0 2rem;
+}
+
+.c-content-box-centered {
+    text-align: left;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
 }
 
 .c-content-box__subheadline--with-button {
-  display: inline;   
-  margin-right: 70px;
-}  
+    display: inline;
+    margin-right: 70px;
+}
 
-@media screen and (min-width: $media-width-L) {
-
-}  
+@media screen and (min-width: $media-width-L) {}
 
 @media screen and (min-width: $media-width-XL) {
-  .c-content-box {    
-    max-width: 46rem;
-    margin: 0 auto;
-  }   
-}    
+    .c-content-box {
+        max-width: 46rem;
+        margin: 0 auto;
+    }
+}
