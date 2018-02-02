@@ -23,7 +23,7 @@ const Index = props => {
           c-content-box__subheadline--with-button
         `}
       >
-        I build web interfaces
+        This is my passion
       </h2>
     </div>
   );
