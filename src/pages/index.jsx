@@ -5,14 +5,16 @@ import HeadlineWithFocus from "../components/HeadlineWithFocus";
 const Index = props => {
   return (
     <div className="c-content-box">
-      <h2>Hi, it's Greg</h2>
+      <h2>Javier Ignacio Quinteros</h2>
       <HeadlineWithFocus
         modifierClassNames={`
           c-headline-focus 
           c-headline-focus--super-big 
         `}
       >
-        I'm a front-end web developer
+       Programmer Analyst,
+       <br/>
+       IT Project Manager
       </HeadlineWithFocus>
       <h2
         className={`
