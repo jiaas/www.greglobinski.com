@@ -16,7 +16,6 @@ module.exports = {
         precision: 8
       }
     },
-    `gatsby-plugin-sass`,
     `gatsby-plugin-netlify`,
     `gatsby-plugin-react-helmet`,
     {
