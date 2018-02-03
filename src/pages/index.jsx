@@ -23,7 +23,7 @@ const Index = props => {
           c-content-box__subheadline--with-button
         `}
       >
-        This is my passion
+        Is this my passion?
       </h2>
     </div>
   );
