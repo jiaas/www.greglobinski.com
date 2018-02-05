@@ -15,10 +15,10 @@ const ForHomePageContent = (
       At present, I'm looking for an oportunity as an intern in <b>Santiago de Chile</b>.
     </p>
     <p>
-    If you want to get in touch and get a coffee together, drop me a message at <b><Obfuscate email='javier@ignacioquinteros.cl' /></b>.
+    If you're curious about what technologies I use, click on the button below.
     </p>
     <p>
-    If you want to know what technologies I use, click on the button below.
+    Maybe you are interested to meet me to discuss an offer, please drop me a message at <b><Obfuscate email='javier@ignacioquinteros.cl' /></b>.
     </p>
   </div>
 );
