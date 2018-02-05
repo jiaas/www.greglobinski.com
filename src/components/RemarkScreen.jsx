@@ -6,20 +6,19 @@ import { FaPaperPlaneO, FaWrench } from 'react-icons/lib/fa';
 const ForHomePageContent = (
   <div className="c-remark-screen__message">
     <p>
-      <b>Hello!</b><br /> Thank you so much for visiting my website.
+      <b>Hello!</b><br /> Thank you so much for visiting my website. I hope you like it
     </p>
     <p>
-      I hope you like it
+      As you may know, my name is Javier Quinteros 
     </p>
     <p>
-      At present, I'm open to <b>full time on-site job</b> offers (Warsaw or London).
+      At present, I'm looking for an oportunity as an intern in <b>Santiago de Chile</b>.
     </p>
     <p>
-      If you realize that I would be a good fit, drop me 
-      a message at <b><Obfuscate email='greglobinski@gmail.com' /></b>.
+    If you want to get in touch and get a coffee together, drop me a message at <b><Obfuscate email='javier@ignacioquinteros.cl' /></b>.
     </p>
     <p>
-      Thank you. Now, you're free to go further.
+    If you want to know what technologies I use, click on the button below.
     </p>
   </div>
 );

@@ -1,7 +1,7 @@
 import React from "react";
 import HeadlineWithFocus from "../components/HeadlineWithFocus";
 import Obfuscate from "react-obfuscate";
-import { FaEnvelopeO, FaTwitter, FaGithub } from "react-icons/lib/fa/";
+import { FaEnvelopeO, FaTwitter, FaGithub, FaLinkedinSquare } from "react-icons/lib/fa/";
 import Helmet from "react-helmet";
 
 export default props => {
@@ -35,6 +35,16 @@ export default props => {
             rel="noopener noreferrer"
           >
             Javier Ignacio as a Service
+          </a>
+        </li>
+        <li className="c-contact-list__item">
+          <FaLinkedinSquare />
+          <a
+            href="https://www.linkedin.com/in/javier-ignacio/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Javier Quinteros LinkedIn
           </a>
         </li>
       </ul>
