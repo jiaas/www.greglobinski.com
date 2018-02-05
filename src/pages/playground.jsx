@@ -7,9 +7,9 @@ export default () => (
     <Helmet title="Let's play" />
 
     <HeadlineWithFocus>
-      Playground
+      My blog is under construction
       {/*<span>What's that?</span>*/}
     </HeadlineWithFocus>
-    <p>Coming soon...</p>
+    <p>Thank you for the patience</p>
   </div>
 );
