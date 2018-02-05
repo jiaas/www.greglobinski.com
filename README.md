@@ -4,6 +4,8 @@ This is the code of my website (ignacioquinteros.cl). All thanks to @greglobinsk
 
 ## Screenshots
 ![](static/assets/readme-screens.png)
+![](static/assets/readme-screens.png)
+![](static/assets/readme-screens.png)
 
 
 
