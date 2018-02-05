@@ -27,11 +27,11 @@ module.exports = {
             resolve: `gatsby-plugin-manifest`,
             options: {
                 name: "Javier Ignacio as a Service",
-                short_name: "JiaaS",
+                short_name: "Javier Ignacio",
                 start_url: "/",
                 background_color: "#f7f0eb",
                 theme_color: "#3998cf",
-                display: "minimal-ui",
+                display: "standalone",
                 icons: [{
                         // Everything in /static will be copied to an equivalent
                         // directory in /public during development and build, so
