@@ -7,7 +7,7 @@ import Helmet from "react-helmet";
 export default props => {
   return (
     <div className="c-content-box">
-      <Helmet title="Contact me" />
+      <Helmet title="JiaaS | Contact me" />
 
       <HeadlineWithFocus>
       <span> Hey I just met you, and </span> this is crazy.<span> But here's my number </span>  so call me maybe

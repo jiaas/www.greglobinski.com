@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 
 export default () => (
   <div className="c-content-box">
-    <Helmet title="Let's play" />
+    <Helmet title="JiaaS | The Blog" />
 
     <HeadlineWithFocus>
       My blog is under construction
