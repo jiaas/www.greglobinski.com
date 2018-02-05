@@ -3,9 +3,14 @@
 This is the code of my website (ignacioquinteros.cl). All thanks to @greglobinski who build a gorgeous open source project.
 
 ## Screenshots
-![](static/assets/readme-screens.png)
-![](static/assets/readme-screens.png)
-![](static/assets/readme-screens.png)
+![](static/assets/screen1.jpg)
+![](static/assets/screen2.jpg)
+![](static/assets/screen3.jpg)
+![](static/assets/screen4.jpg)
+![](static/assets/screen5.jpg)
+![](static/assets/screen6.jpg)
+![](static/assets/screen7.jpg)
+
 
 
 
