@@ -6,10 +6,10 @@ import { FaPaperPlaneO, FaWrench } from 'react-icons/lib/fa';
 const ForHomePageContent = (
   <div className="c-remark-screen__message">
     <p>
-      <b>I'm glad</b><br /> that you're interested in my stuff.
+      <b>Hello!</b><br /> Thank you so much for visiting my website.
     </p>
     <p>
-      There's something I want you to remember while you're going over the website.
+      I hope you like it
     </p>
     <p>
       At present, I'm open to <b>full time on-site job</b> offers (Warsaw or London).
