@@ -16,31 +16,28 @@ const ForHomePageContent = (
     </p>
     <p>
     If you're curious about what technologies I use, click on the button below.
-    </p>
-    <p>
-    Maybe you are interested to meet me to discuss an offer, please drop me a message at <b><Obfuscate email='javier@ignacioquinteros.cl' /></b>.
-    </p>
+    </p>   
   </div>
 );
 
 const ForContactPageContent = (
   <div className="c-remark-screen__message">
     <p>
-      <b>Hi there</b><br /> Before you leave
+      <b>Hello again</b><br /> Before you leave
     </p>
     <p>
-      I want you to remember that at present, I am open to <b>full time on-site job</b> offers (Warsaw or London).
+      I want want to remember that at present, I am looking for a practice as <b>Programmer Analyst in Santiago de Chile</b>.
     </p>
     <p>
       If you feel that you want me on your team, drop me 
-      a message at <b><Obfuscate email='greglobinski@gmail.com' /></b>.
+      a message at <b><Obfuscate email='javier@ignacioquinteros.cl' /></b>.
     </p>
     <p>
       
     </p>
     <p>
-      Thank you<br />
-      <b>Greg</b>
+      Have a nice day!<br />
+      <b>Javier Ignacio</b>
     </p>
   </div>
 );
