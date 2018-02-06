@@ -1,6 +1,6 @@
 # Javier as a Service - www.ignacioquinteros.cl
 
-This is the code of my website (ignacioquinteros.cl). All thanks to @greglobinski who build a gorgeous open source project.
+This is the code of my website (ignacioquinteros.cl). All thanks to @greglobinski who started this open source project.
 
 ## Screenshots
 ![](static/assets/screen1.jpg)
